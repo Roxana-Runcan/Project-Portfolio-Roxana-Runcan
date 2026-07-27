@@ -1,4 +1,4 @@
-# Roxana Runcan - Data Analyst Portfolio 
+# Data Analyst Portfolio 
 
 ## About
 
@@ -27,8 +27,6 @@ You can find my CV [here](jhdw).
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 
-
-kjhvs
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
