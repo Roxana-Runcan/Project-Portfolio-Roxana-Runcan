@@ -1,5 +1,3 @@
-
-
 # Roxana Runcan - Data Analyst Portfolio 
 
 ## About
@@ -30,7 +28,7 @@ You can find my CV [here](jhdw).
 
 
 
-
+kjhvs
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
