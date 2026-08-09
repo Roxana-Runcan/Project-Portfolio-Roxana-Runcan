@@ -53,20 +53,15 @@ In this section, data analytics projects will be presented with the aim of demon
 
 **Code:** [Bank Customer Churn Analysis](https://github.com/Roxana-Runcan/Bank.Customer.Churn.Analysis/blob/main/SQL%20Scripts/bank_data_cleaning_EDA.sql)
 
-**Goal:**  
-To identify the main factors associated with customer churn in the banking sector and determine which customer groups are most at risk of leaving.
+**Goal:**  To identify the main factors associated with customer churn in the banking sector and determine which customer groups are most at risk of leaving.
 
-**Description:**  
-This project analyzes customer data to investigate patterns related to bank customer loss. The analysis explores how factors such as customer geography, account activity, tenure, balance,and membership status may influence churn. The project includes data preparation, exploratory data analysis, customer segmentation, and the interpretation of churn-related patterns.
+**Description:**  This project analyzes customer data to investigate patterns related to bank customer loss. The analysis explores how factors such as customer geography, account activity, tenure, balance,and membership status may influence churn. The project includes data preparation, exploratory data analysis, customer segmentation, and the interpretation of churn-related patterns.
 
-**Skills:**  
-Data cleaning, data preparation, exploratory data analysis, customer segmentation, churn analysis, pattern identification, data interpretation, and business insight generation.
+**Skills:**  Data cleaning, data preparation, exploratory data analysis, customer segmentation, churn analysis, pattern identification, data interpretation, and business insight generation.
 
-**Technology:**  
-SQL, Tableau 
+**Technology:**  SQL, Tableau 
 
-**Results:**  
-The analysis identified customer segments with a higher likelihood of churning and highlighted the behavioral and demographic factors most strongly associated with customer loss. These insights can support the development of targeted retention strategies and help banks prioritize customers who may require additional engagement.
+**Results:**  The analysis identified customer segments with a higher likelihood of churning and highlighted the behavioral and demographic factors most strongly associated with customer loss. These insights can support the development of targeted retention strategies and help banks prioritize customers who may require additional engagement.
 
 ---
 
@@ -74,20 +69,15 @@ The analysis identified customer segments with a higher likelihood of churning a
 
 **Code:** [Sales Opportunities in the U.S. Market](https://github.com/Roxana-Runcan/Sales.Oppotunities.In.The.US.Market/blob/main/SQL%20Script/Cleaned_data_initial_EDA.sql)
 
-**Goal:**  
-To assess sales opportunities across the U.S. market and identify the states that may offer the greatest potential for a European business entering the market.
+**Goal:**  To assess sales opportunities across the U.S. market and identify the states that may offer the greatest potential for a European business entering the market.
 
-**Description:**  
-This project examines income levels across U.S. states to support a more informed market entry strategy. By comparing income patterns between states, the analysis helps identify differences in purchasing power, market attractiveness, and potential price sensitivity. The project is designed to reduce the risks associated with entering a new market by supporting state-level prioritization and more targeted commercial decision-making.
+**Description:**  This project examines income levels across U.S. states to support a more informed market entry strategy. By comparing income patterns between states, the analysis helps identify differences in purchasing power, market attractiveness, and potential price sensitivity. The project is designed to reduce the risks associated with entering a new market by supporting state-level prioritization and more targeted commercial decision-making.
 
-**Skills:**  
-Data cleaning, data analysis, geographic analysis, market analysis, income comparison, market segmentation, data visualization, risk assessment, and business recommendation development.
+**Skills:**  Data cleaning, data analysis, geographic analysis, market analysis, income comparison, market segmentation, data visualization, risk assessment, and business recommendation development.
 
-**Technology:**  
-SQL, Tableau
+**Technology:**  SQL, Tableau
 
-**Results:**  
-The analysis highlighted significant differences in income levels across U.S. states and demonstrated why the U.S. should not be treated as a single uniform market. The findings support a phased market-entry approach by helping businesses prioritize states according to income levels, purchasing power, and potential commercial attractiveness.
+**Results:**  The analysis highlighted significant differences in income levels across U.S. states and demonstrated why the U.S. should not be treated as a single uniform market. The findings support a phased market-entry approach by helping businesses prioritize states according to income levels, purchasing power, and potential commercial attractiveness.
 
 
 
