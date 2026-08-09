@@ -38,7 +38,7 @@ You can find my CV [here](jhdw).
        - projects [here](https://public.tableau.com/app/profile/roxana.runcan/vizzes)
    - Python
       - updating..
-- [Certificates](jnbj)
+- [Certificates](#certificates)
 - [Contact](#contact)
 
 #Certificates
