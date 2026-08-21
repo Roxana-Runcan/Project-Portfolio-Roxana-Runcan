@@ -89,7 +89,8 @@ At the city level, the strongest concentration of high-earning cities is found i
 ## Certificates
 - Practical experience is often the most effective way of demonstrating skill, but sometimes certificates can support in additionally validating this experience.
     - [Data Analyst Roadmap](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan/blob/main/%20Data%20Analyst%20Roadmap%20Certificate-Roxana-Loredana%20Runcan%20.pdf) (An intensive bootcamp designed to build all Data analyst essential skills)
-    - [Correlaid Volunteer](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan/blob/main/Data4Good-Volunteering.pdf) 
+    - [Correlaid Volunteer](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan/blob/main/Data4Good-Volunteering.pdf)
+    - [Correlaid Git Basics Certificate](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan/blob/main/Git%20Basics%20Correlaid.pdf)
     - [Git & GitHub ](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan/blob/main/Git%20and%20GitHub%20for%20Data%20Professionals%20Certificate.pdf) (Proficiency in Git and GitHub using the Terminal and Visual Studio Code)
 ## Contact 
 - LinkedIn : [@roxanaruncan](https://www.linkedin.com/in/roxana-r-300a9a253/)
