@@ -51,6 +51,8 @@ In this section, data analytics projects will be presented with the aim of demon
 
 ### Bank Customer Churn Analysis
 
+**Dashboard:** [Bank Customer Churn Analysis](https://public.tableau.com/app/profile/roxana.runcan/viz/CustomerChurnatBank/Dashboard)
+
 **Code:** [Bank Customer Churn Analysis](https://github.com/Roxana-Runcan/Bank.Customer.Churn.Analysis/blob/main/SQL%20Scripts/bank_data_cleaning_EDA.sql)
 
 **Goal:**  To identify the main factors associated with customer churn in the banking sector and determine which customer groups are most at risk of leaving.
@@ -68,6 +70,8 @@ The Basic plan dominates sales, but women show stronger interest in upgrading to
 ---
 
 ### Sales Opportunities in the U.S. Market
+
+**Dashboard:** [Sales Opportunities in the U.S. Market](https://public.tableau.com/app/profile/roxana.runcan/viz/DistributionOfBuyingPoweracrosstheU_S/Dashboard1)
 
 **Code:** [Sales Opportunities in the U.S. Market](https://github.com/Roxana-Runcan/Sales.Oppotunities.In.The.US.Market/blob/main/SQL%20Script/Cleaned_data_initial_EDA.sql)
 
